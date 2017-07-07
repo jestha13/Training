@@ -35,6 +35,7 @@ public class ArrayDemo {
 		  while(it.hasNext()){
 			  System.out.println(it.next());
 		  }
+		  System.out.println("La vayo bro !!!!sahi ho!!");
 	}
 }
 
